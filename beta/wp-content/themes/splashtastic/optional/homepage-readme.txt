@@ -1,1 +1,0 @@
-Copy these files into the root template directory (/wp-content/themes/splashtastic/) to have a static splash homepage.
